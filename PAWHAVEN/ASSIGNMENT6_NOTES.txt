@@ -1,0 +1,7 @@
+PAWHAVEN — Assignment 6 (jQuery)
+Team: Miras Kamaladin, Ayaulym Amankeldykyzy, Dias Aibekuly
+Group: SE-2504
+
+The project continues the existing PAWHAVEN pet shop website from Assignment 5.
+See README.md for the list of implemented Assignment 6 features.
+The website URL must be filled in after the team deploys the updated project to GitHub Pages or Netlify.
